@@ -17,5 +17,7 @@ Makers of this pipeline: Javier Martinez, Stanley Liu, Christopher Lee
 
 
 'We prefer to just manually make new excel files from scratch each time, will that be a problem?'
+
 'you just have to take the data from here and put it there'
+
 'Oh you are just a SWE with cheaper pay'
